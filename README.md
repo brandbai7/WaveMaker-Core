@@ -66,7 +66,37 @@ To achieve "Content Routing Intelligence," we abstract unstructured content into
       "tone": "Relatable / Best-friend style",
       "visual": "Close-up macro shot"
     }
-  },
+  }
+
+## 🚀 Go-to-Market & Expansion Roadmap
+
+[cite_start]**Ideal Customer Profile (ICP):** Consumer brands with 50M+ RMB annual revenue (prioritizing skincare, food & beverage, etc.), with an in-house content team of 5+ members, and strict data security requirements (no third-party hosting)[cite: 59, 61].
+
+[cite_start]WaveMaker adopts an agile deployment path of "single-engine validation, phased expansion, and continuous graph enrichment"[cite: 51]:
+
+- [x] **Phase 1: MUSE Performance Ad Engine Validation**
+  - [cite_start]The MUSE engine has completed client validation[cite: 52]. 
+  - [cite_start]Its daily operation accumulates foundational data for the product knowledge and audience intelligence sub-graphs, laying the groundwork for omni-channel expansion[cite: 52].
+- [ ] **Phase 2: Seeding Content Engine Launch**
+  - [cite_start]The most natural next step, as seeding (Xiaohongshu/Douyin) and performance ads share the strongest synergy[cite: 53]. 
+  - [cite_start]It reuses MUSE's video understanding capabilities and taxonomy[cite: 53]. [cite_start]The omni-channel USP graph begins generating actual cross-domain value[cite: 53].
+- [ ] **Phase 3: E-commerce Content Engine Launch**
+  - [cite_start]Once ad performance data and seeding interaction data converge in the graph, optimizing e-commerce product page USP rankings and expressions becomes entirely data-driven[cite: 54].
+- [ ] **Phase 4: Live-streaming Content Engine Launch**
+  - [cite_start]Live scripts and ad scripts share underlying logic, easing the cold start[cite: 55]. [cite_start]Live stream highlights become premium sources for ad creatives, forming a complete closed data loop[cite: 55].
+- [ ] **Phase 5: Brand Content Engine Launch**
+  - [cite_start]With a deeply enriched omni-channel graph, the system provides unprecedented data support for brand campaigns and TVCs[cite: 56].
+
+> **💡 Core Business Law (The Network Effect):**
+> [cite_start]Every time a new engine is deployed, the value of existing engines increases synchronously as the graph thickens[cite: 57]. [cite_start]The second engine provides more than twice the value of the first[cite: 57]. [cite_start]This is an exponential network effect, not a linear addition[cite: 57].
+
+## 🛡️ The Ultimate Vision
+
+[cite_start]What we ultimately deliver to our clients is not "just another handy SaaS tool," but a continuously appreciating **Brand Content Agent** that belongs exclusively to them[cite: 63].
+
+[cite_start]It understands all the content experiences of the brand across all channels more comprehensively than any single employee[cite: 63]. [cite_start]It never resigns, never forgets, and never has a bias[cite: 63]. [cite_start]It gets smarter with every use—every new piece of content produced and every data point fed back deepens its understanding of the brand[cite: 63].
+
+[cite_start]**In the AI era, this Agent is the true and ultimate moat for consumer brand growth.** [cite: 64]
   "omni_routing_action": {
     "target_channel": "Qianchuan_Ads",
     "adaptation_strategy": "Extract `structure_layer.hook` -> Re-generate video script with `expert` tone -> Push to MUSE Engine"
