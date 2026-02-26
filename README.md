@@ -1,51 +1,50 @@
-# 🌊 WaveMaker (造浪) 
+# 🌊 WaveMaker 
 
 **The Unified Brain for Brand Content Assets in the AI-Native Era.**
-[cite_start]**AI 原生时代品牌全域内容资产的统一大脑 [cite: 3]。**
 
 [![Status](https://img.shields.io/badge/Status-Private_Beta-blue.svg)]()
 [![Architecture](https://img.shields.io/badge/Architecture-Agentic_Workflow-green.svg)]()
 [![Industry](https://img.shields.io/badge/Industry-FMCG_%2F_Retail-orange.svg)]()
 
-> [cite_start]"WaveMaker is not a traditional DAM or CMS. We don't just manage files and workflows; we manage **Understanding**—understanding of the brand, the audience, and why content performs well[cite: 5]."
+> "WaveMaker is not a traditional DAM or CMS. We don't just manage files and workflows; we manage **Understanding**—understanding of the brand, the audience, and why content performs well, driving content production across all channels."
 
 ## 💡 The Problem: Content Schizophrenia
 
-[cite_start]Today, a consumer brand with $70M+ (5亿人民币) in revenue scatters its content assets across at least 6 battlefields: Performance Ads (Qianchuan), Seeding (Xiaohongshu), E-commerce (Taobao/JD), Live-streaming, Influencers, and Brand TVCs[cite: 7]. 
+Today, a consumer brand with 500M+ RMB in revenue scatters its content assets across at least 6 battlefields: Performance Ads (Qianchuan), Seeding (Xiaohongshu/Douyin), E-commerce, Live-streaming, Influencers, and Brand Campaigns.
 
-[cite_start]Each team fights its own battle[cite: 8]. 
-[cite_start]The winning hook in a performance ad doesn't flow to the Xiaohongshu seeding team[cite: 9]. [cite_start]The pain-point description validated in a viral post doesn't automatically update the e-commerce product page[cite: 9]. [cite_start]Six teams, facing the same brand and consumers, are blindly reinventing the wheel[cite: 10]. 
+Each team fights its own battle.
+The winning hook in a performance ad doesn't flow to the Xiaohongshu seeding team. The pain-point description validated in a viral post doesn't automatically update the e-commerce product page. Six teams, facing the same brand and consumers, are blindly reinventing the wheel. 
 
-[cite_start]This is a structural defect[cite: 11]. WaveMaker is the cure.
+This is not an execution issue; it is a structural defect caused by the lack of a unified brain. WaveMaker is the cure.
 
-## 🏗️ Core Architecture (三层架构设计)
+## 🏗️ Core Architecture 
 
-[cite_start]WaveMaker is built on a robust 3-layer architecture, utilizing Agentic workflows to bridge data silos[cite: 12, 13]:
+WaveMaker is built on a robust 3-layer architecture, utilizing Agentic workflows to bridge data silos:
 
-### [cite_start]Layer 1: Brand Content Graph (品牌内容图谱 - The Brain) [cite: 14]
-[cite_start]The dynamic foundation that continuously answers 5 core questions based on real-time data[cite: 15]:
-- **Identity:** What is the brand? (Dynamic validation of brand guidelines) [cite_start][cite: 16, 17]
-- **Products:** What are we selling? (Omni-channel USP heatmaps) [cite_start][cite: 19, 20]
-- **Audience:** Who are we talking to? (Cross-channel behavioral tracking) [cite_start][cite: 21, 22]
-- **History:** What have we said? (Structured historical data & attribution) [cite_start][cite: 23, 24]
-- **Market:** What is happening? (Competitor intelligence monitoring) [cite_start][cite: 25, 26]
+### Layer 1: Brand Content Graph (The Brain)
+The dynamic foundation that continuously answers 5 core questions based on real-time data:
+- **Identity:** What is the brand? (Dynamic validation of brand guidelines)
+- **Products:** What are we selling? (Omni-channel USP heatmaps)
+- **Audience:** Who are we talking to? (Cross-channel behavioral tracking)
+- **History:** What have we said? (Structured historical data & attribution)
+- **Market:** What is happening? (Competitor intelligence monitoring)
 
-### [cite_start]Layer 2: Omni-channel Taxonomy (全域内容描述框架 - The Language) [cite: 28]
-[cite_start]A unified 4-layer taxonomy that allows all channel engines to "speak" to each other[cite: 29]:
-1. [cite_start]**Intent (意图层):** Awareness, Interest, Trust, Conversion, Retention[cite: 30].
-2. [cite_start]**Structure (结构层):** E.g., Hook -> Body -> CTA[cite: 31].
-3. [cite_start]**Presentation (呈现层):** Visuals, tone of voice, pacing[cite: 33].
-4. [cite_start]**Metadata (元数据层):** Cross-channel adaptation mapping, performance metrics[cite: 34].
+### Layer 2: Omni-channel Taxonomy (The Language)
+A unified 4-layer taxonomy that allows all channel engines to "speak" to each other:
+1. **Intent Layer:** Awareness, Interest, Trust, Conversion, Retention.
+2. **Structure Layer:** E.g., Hook -> Body -> CTA.
+3. **Presentation Layer:** Visuals, tone of voice, pacing.
+4. **Metadata Layer:** Cross-channel adaptation mapping, performance metrics.
 
-### [cite_start]Layer 3: Channel Content Engines (渠道内容引擎 - The Execution) [cite: 36]
-[cite_start]Specialized Agent clusters for each battlefield[cite: 37]:
-- [cite_start]🚀 **MUSE Engine (Performance Ads):** Competitor insight, script generation, automated ROI attribution[cite: 38].
-- [cite_start]🌱 **Seeding Engine (Xiaohongshu/Douyin):** Topic recommendation, influencer matching, viral pattern recognition[cite: 39].
-- [cite_start]🛒 **E-commerce Engine:** Dynamic product page optimization based on omni-channel USP data[cite: 40].
-- [cite_start]🎙️ **Live-streaming Engine:** Automated script generation and highlight-clipping for ad recycling[cite: 41].
-- [cite_start]👑 **Brand Content Engine:** Brief generation and tone-consistency checking[cite: 42].
+### Layer 3: Channel Content Engines (The Execution)
+Specialized Agent clusters for each battlefield:
+- 🚀 **MUSE Engine (Performance Ads):** Competitor insight, script generation, automated ROI attribution.
+- 🌱 **Seeding Engine (Xiaohongshu/Douyin):** Topic recommendation, influencer matching, viral pattern recognition.
+- 🛒 **E-commerce Engine:** Dynamic product page optimization based on omni-channel USP data.
+- 🎙️ **Live-streaming Engine:** Automated script generation and highlight-clipping for ad recycling.
+- 👑 **Brand Content Engine:** Brief generation and tone-consistency checking.
 
-## 🧠 Technical Moat: Data Structure Demo (核心资产展示)
+## 🧠 Technical Moat: Data Structure Demo
 
 To achieve "Content Routing Intelligence," we abstract unstructured content into highly structured data blocks. 
 
@@ -66,39 +65,41 @@ To achieve "Content Routing Intelligence," we abstract unstructured content into
       "tone": "Relatable / Best-friend style",
       "visual": "Close-up macro shot"
     }
-  }
-
-## 🚀 Go-to-Market & Expansion Roadmap
-
-[cite_start]**Ideal Customer Profile (ICP):** Consumer brands with 50M+ RMB annual revenue (prioritizing skincare, food & beverage, etc.), with an in-house content team of 5+ members, and strict data security requirements (no third-party hosting)[cite: 59, 61].
-
-[cite_start]WaveMaker adopts an agile deployment path of "single-engine validation, phased expansion, and continuous graph enrichment"[cite: 51]:
-
-- [x] **Phase 1: MUSE Performance Ad Engine Validation**
-  - [cite_start]The MUSE engine has completed client validation[cite: 52]. 
-  - [cite_start]Its daily operation accumulates foundational data for the product knowledge and audience intelligence sub-graphs, laying the groundwork for omni-channel expansion[cite: 52].
-- [ ] **Phase 2: Seeding Content Engine Launch**
-  - [cite_start]The most natural next step, as seeding (Xiaohongshu/Douyin) and performance ads share the strongest synergy[cite: 53]. 
-  - [cite_start]It reuses MUSE's video understanding capabilities and taxonomy[cite: 53]. [cite_start]The omni-channel USP graph begins generating actual cross-domain value[cite: 53].
-- [ ] **Phase 3: E-commerce Content Engine Launch**
-  - [cite_start]Once ad performance data and seeding interaction data converge in the graph, optimizing e-commerce product page USP rankings and expressions becomes entirely data-driven[cite: 54].
-- [ ] **Phase 4: Live-streaming Content Engine Launch**
-  - [cite_start]Live scripts and ad scripts share underlying logic, easing the cold start[cite: 55]. [cite_start]Live stream highlights become premium sources for ad creatives, forming a complete closed data loop[cite: 55].
-- [ ] **Phase 5: Brand Content Engine Launch**
-  - [cite_start]With a deeply enriched omni-channel graph, the system provides unprecedented data support for brand campaigns and TVCs[cite: 56].
-
-> **💡 Core Business Law (The Network Effect):**
-> [cite_start]Every time a new engine is deployed, the value of existing engines increases synchronously as the graph thickens[cite: 57]. [cite_start]The second engine provides more than twice the value of the first[cite: 57]. [cite_start]This is an exponential network effect, not a linear addition[cite: 57].
-
-## 🛡️ The Ultimate Vision
-
-[cite_start]What we ultimately deliver to our clients is not "just another handy SaaS tool," but a continuously appreciating **Brand Content Agent** that belongs exclusively to them[cite: 63].
-
-[cite_start]It understands all the content experiences of the brand across all channels more comprehensively than any single employee[cite: 63]. [cite_start]It never resigns, never forgets, and never has a bias[cite: 63]. [cite_start]It gets smarter with every use—every new piece of content produced and every data point fed back deepens its understanding of the brand[cite: 63].
-
-[cite_start]**In the AI era, this Agent is the true and ultimate moat for consumer brand growth.** [cite: 64]
+  },
   "omni_routing_action": {
     "target_channel": "Qianchuan_Ads",
     "adaptation_strategy": "Extract `structure_layer.hook` -> Re-generate video script with `expert` tone -> Push to MUSE Engine"
   }
 }
+```
+
+## 🚀 Go-to-Market & Expansion Roadmap
+
+**Ideal Customer Profile (ICP):** Consumer brands with 50M+ RMB annual revenue (prioritizing skincare, food & beverage, apparel, home, etc.), with an in-house content team of 5+ members, and strict data security requirements.
+
+WaveMaker adopts an agile deployment path of "single-engine validation, phased expansion, and continuous graph enrichment":
+
+- [x] **Phase 1: MUSE Performance Ad Engine Validation**
+  - The MUSE engine has completed client validation, laying the groundwork for omni-channel expansion.
+- [ ] **Phase 2: Seeding Content Engine Launch**
+  - The most natural next step, as seeding and performance ads share the strongest synergy. 
+- [ ] **Phase 3: E-commerce Content Engine Launch**
+  - Optimizing e-commerce product page USP rankings becomes data-driven using converging performance and seeding data.
+- [ ] **Phase 4: Live-streaming Content Engine Launch**
+  - Live stream highlights become premium sources for ad creatives, forming a complete closed data loop.
+- [ ] **Phase 5: Brand Content Engine Launch**
+  - The system provides unprecedented data support for brand campaigns.
+
+> **💡 The Network Effect:**
+> Every time a new engine is deployed, the value of existing engines increases synchronously. The second engine provides more than twice the value of the first. This is an exponential network effect, not a linear addition.
+
+## 🛡️ The Ultimate Vision
+
+What we ultimately deliver to our clients is not "just another handy SaaS tool," but a continuously appreciating **Brand Content Agent**.
+
+It understands all the content experiences of the brand across all channels. It never resigns, never forgets, and never has a bias. It gets smarter with every use—every new piece of content produced and every data point fed back deepens its understanding of the brand.
+
+**In the AI era, this Agent is the true moat for brand growth.**
+
+---
+*Note: This repository currently serves as the architectural overview and open-standard taxonomy documentation for WaveMaker. Core proprietary Agent workflows and engine source code are maintained in private repositories.*
