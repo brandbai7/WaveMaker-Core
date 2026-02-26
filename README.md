@@ -72,7 +72,7 @@ To achieve "Content Routing Intelligence," we abstract unstructured content into
     "adaptation_strategy": "Extract `structure_layer.hook` -> Re-generate video script with `expert` tone -> Push to MUSE Engine"
   }
 }
-🚀 Go-to-Market Roadmap (扩展路径)
+##🚀 Go-to-Market Roadmap (扩展路径)
 [x] Phase 1: MUSE Performance Ad Engine (Validated) 
 
 [ ] Phase 2: Xiaohongshu Seeding Engine Launch 
@@ -86,7 +86,7 @@ To achieve "Content Routing Intelligence," we abstract unstructured content into
 
 Network Effect: Every new engine deployed exponentially increases the value of the underlying Brand Content Graph.
 
-🛡️ Vision
+##🛡️ Vision
 We are not delivering a SaaS tool. We are delivering a continuously appreciating Brand Content Agent. It never resigns, never forgets, and gets smarter with every piece of content published. In the AI era, this is the ultimate moat for consumer brands.
 +1
 
